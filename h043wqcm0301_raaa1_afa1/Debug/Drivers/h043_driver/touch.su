@@ -1,0 +1,10 @@
+touch.c:64:6:GPIO_IRQHandler	4	static
+touch.c:95:13:upload_pos	16	static
+touch.c:121:13:upload_pos_timer	16	static
+touch.c:127:13:standby_act_timer	24	static
+touch.c:161:17:get_tp_seamphore	16	static
+touch.c:173:13:touch_init	8	static
+touch.c:211:9:get_pos	24	static
+touch.c:309:6:touch_task	64	static
+touch.c:760:12:ST1633I_i2c2_read	40	static
+touch.c:769:12:ST1633I_i2c2_write	40	static

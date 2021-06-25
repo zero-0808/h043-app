@@ -1,0 +1,9 @@
+icon.c:31:11:color_mix	32	static
+icon.c:53:13:zoom_icon_image	40	static
+icon.c:89:11:RGB888_to_RGB555	24	static
+icon.c:104:6:show_vicon_image	56	static
+icon.c:226:7:show_icon_image	40	static
+icon.c:296:10:init_icon	64	static
+icon.c:342:10:get_icon_image	56	static
+icon.c:368:7:show_icon_image_mix	56	static
+icon.c:453:6:show_icon_test	1200	static

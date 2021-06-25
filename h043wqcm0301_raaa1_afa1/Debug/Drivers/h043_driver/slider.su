@@ -1,0 +1,14 @@
+slider.c:26:15:count_slider_value	24	static
+slider.c:66:13:update_slider_value	32	static
+slider.c:112:16:slider_msg	64	static
+slider.c:197:13:slider_release	32	static
+slider.c:221:13:slider_notify	24	static
+slider.c:255:13:slider_act	24	static
+slider.c:290:13:slider_update_touch	16	static
+slider.c:341:17:count_slider_pos	24	static
+slider.c:382:13:slider_draw_screen	64	static
+slider.c:468:13:cmd_update_slider_status	32	static
+slider.c:507:13:cmd_get_slider_status	24	static
+slider.c:539:13:slider_touch_back	24	static
+slider.c:558:9:slider_create	32	static
+slider.c:679:10:sslider_create	24	static

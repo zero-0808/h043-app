@@ -1,0 +1,15 @@
+progress.c:25:15:count_bar_value	24	static
+progress.c:66:13:update_bar_value	32	static
+progress.c:109:16:prog_bar_msg	48	static
+progress.c:185:13:prog_bar_release	24	static
+progress.c:203:13:prog_bar_notify	24	static
+progress.c:235:13:prog_bar_act	24	static
+progress.c:270:17:count_bar_pos	24	static
+progress.c:319:13:init_progress	64	static
+progress.c:396:16:number_to_ascii	16	static
+progress.c:425:13:bar_show_font	80	static
+progress.c:548:13:bar_draw_screen	24	static
+progress.c:571:13:cmd_update_bar_status	32	static
+progress.c:613:13:cmd_get_bar_status	24	static
+progress.c:657:9:prog_bar_create	32	static
+progress.c:800:10:sprog_bar_create	24	static

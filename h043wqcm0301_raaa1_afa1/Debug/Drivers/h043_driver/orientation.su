@@ -1,0 +1,9 @@
+orientation.c:54:7:lis3dh_init	16	static
+orientation.c:155:5:i2c_read	40	static
+orientation.c:187:5:i2c_write	48	static
+orientation.c:220:16:platform_read	16	static
+orientation.c:236:16:platform_write	24	static
+orientation.c:251:9:get_lis3dh_dir	16	static
+orientation.c:278:6:lis3dh_task	24	static
+orientation.c:405:9:lis3dh_get_dir	16	static
+orientation.c:427:6:set_screen_mode	16	static

@@ -1,0 +1,5 @@
+buzzer.c:30:13:buzzer_timer1	32	static
+buzzer.c:48:13:buzzer_timer2	32	static
+buzzer.c:62:13:bz_init	16	static
+buzzer.c:85:13:bz_act	16	static
+buzzer.c:102:6:set_buzzer_mode	32	static

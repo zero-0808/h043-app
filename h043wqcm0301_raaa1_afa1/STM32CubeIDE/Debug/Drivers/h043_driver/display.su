@@ -1,0 +1,16 @@
+display.c:65:13:lcd_draw_cross	32	static
+display.c:70:17:lcd_read_pixel_buffer	32	static
+display.c:86:13:lcd_fill_rect	32	static
+display.c:117:13:lcd_fill_sceen	24	static
+display.c:133:13:lcd_put_pixel	32	static
+display.c:167:13:lcd_put_pixel_buffer	32	static
+display.c:185:18:lcd_get_addr	16	static
+display.c:204:13:back_light_init	8	static
+display.c:251:6:drv_bl_pwm_out	8	static
+display.c:258:13:set_back_light	24	static
+display.c:284:6:LTDC_Layer_Window_Config	24	static
+display.c:291:6:LTDC_Init	16	static
+display.c:304:13:TFT_init	24	static
+display.c:393:13:switch_base_addr	8	static
+display.c:414:13:open_backlight	8	static
+display.c:424:13:close_backlight	8	static

@@ -1,0 +1,6 @@
+tp_test.c:7:16:tp_touch_msg	48	static
+tp_test.c:85:13:tp_touch_release	16	static
+tp_test.c:94:13:tp_touch_act	16	static
+tp_test.c:102:13:tp_draw_screen	24	static
+tp_test.c:120:9:tp_touch_create	16	static
+tp_test.c:150:6:tp_test	16	static

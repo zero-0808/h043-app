@@ -1,0 +1,6 @@
+icon_touch.c:25:16:icon_msg	48	static
+icon_touch.c:103:13:icon_release	24	static
+icon_touch.c:126:13:icon_act	24	static
+icon_touch.c:244:13:icon_draw_screen	48	static
+icon_touch.c:305:9:icon_create	24	static
+icon_touch.c:372:10:sicon_create	24	static

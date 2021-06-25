@@ -1,0 +1,11 @@
+my_task.c:71:6:cmd_nortify_reset	16	static
+my_task.c:90:13:upload_screen	16	static
+my_task.c:116:13:bl_nortify	24	static
+my_task.c:142:16:touch_act	32	static
+my_task.c:233:13:v2h	24	static
+my_task.c:265:16:update_screen	40	static
+my_task.c:359:6:start_task	24	static
+my_task.c:479:6:check_mem_info	24	static
+my_task.c:488:13:update_screen_task	56	static
+my_task.c:675:13:buzzer_off_timer	16	static
+my_task.c:689:6:message_task	56	static

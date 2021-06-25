@@ -1,0 +1,9 @@
+scif.c:29:6:take_g_mutex_id_usart_tx	8	static
+scif.c:34:6:give_g_mutex_id_usart_tx	8	static
+scif.c:43:18:plux	16	static
+scif.c:67:6:UART0_IRQHandler	32	static
+scif.c:125:6:usart_init	88	static
+scif.c:286:16:usart_receive	16	static
+scif.c:303:10:usart_send_str	24	static
+scif.c:354:6:usart_send	16	static
+scif.c:369:6:usart_task	56	static

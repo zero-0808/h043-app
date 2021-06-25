@@ -1,0 +1,2 @@
+language.c:22:6:lang_init	40	static
+language.c:62:6:set_lang	48	static

@@ -1,0 +1,4 @@
+SDRAM_W98N_32M_16BIT.c:15:6:SDRAM_Initialization_Sequence	24	static
+SDRAM_W98N_32M_16BIT.c:47:4:SDRAM_Send_Cmd	48	static
+SDRAM_W98N_32M_16BIT.c:69:6:FMC_SDRAM_WriteBuffer	24	static
+SDRAM_W98N_32M_16BIT.c:83:6:FMC_SDRAM_ReadBuffer	24	static

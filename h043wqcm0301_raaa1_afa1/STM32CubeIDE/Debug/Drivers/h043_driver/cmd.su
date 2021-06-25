@@ -1,0 +1,13 @@
+cmd.c:58:13:cmd_init	8	static
+cmd.c:65:18:plux	16	static
+cmd.c:79:17:minus	16	static
+cmd.c:94:17:get_seamphore	16	static
+cmd.c:111:17:give_seamphore	16	static
+cmd.c:127:13:notify_cmd	24	static
+cmd.c:157:13:cmd_send_str	24	static
+cmd.c:180:13:usart_cmd	16	static
+cmd.c:191:10:get_next_cmd_addr	24	static
+cmd.c:210:13:get_cmd	24	static
+cmd.c:278:10:get_cmd_num	24	static
+cmd.c:306:6:external_cmd_task	32	static
+cmd.c:647:6:cmd_prase_task	40	static

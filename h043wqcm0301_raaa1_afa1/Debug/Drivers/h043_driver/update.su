@@ -1,0 +1,9 @@
+update.c:42:14:str_to_num	24	static
+update.c:82:16:update_bmp_source	1272	static
+update.c:316:11:read_source	32	static
+update.c:370:16:save_source	600	static
+update.c:427:13:update_tci_source	568	static
+update.c:436:6:put_charn	40	static
+update.c:471:6:show_charn	40	static
+update.c:486:6:show_progress	144	static
+update.c:515:9:update_source	1792	static

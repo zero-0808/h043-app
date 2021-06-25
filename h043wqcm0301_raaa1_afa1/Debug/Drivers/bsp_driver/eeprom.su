@@ -1,0 +1,5 @@
+eeprom.c:19:10:bsp_GetSector	24	static
+eeprom.c:81:9:bsp_ReadCpuFlash	32	static
+eeprom.c:118:9:bsp_CmpCpuFlash	32	static
+eeprom.c:180:9:bsp_EraseCpuFlash	56	static
+eeprom.c:234:9:bsp_WriteCpuFlash	80	static,ignoring_inline_asm

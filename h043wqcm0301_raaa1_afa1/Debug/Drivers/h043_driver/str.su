@@ -1,0 +1,9 @@
+str.c:26:16:str_touch_msg	16	static
+str.c:39:13:str_touch_release	24	static
+str.c:58:13:str_touch_act	16	static
+str.c:72:13:init_draw_text	40	static
+str.c:131:11:get_str_code	24	static
+str.c:156:13:update_draw_text	48	static
+str.c:570:13:str_draw_screen	136	static
+str.c:896:9:str_touch_create	24	static
+str.c:939:10:sstr_touch_create	24	static

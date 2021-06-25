@@ -1,0 +1,5 @@
+graph.c:25:16:graph_msg	16	static
+graph.c:34:13:graph_release	24	static
+graph.c:49:13:graph_act	16	static
+graph.c:65:13:graph_draw_screen	88	static
+graph.c:167:9:graph_create	32	static

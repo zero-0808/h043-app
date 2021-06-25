@@ -1,0 +1,4 @@
+lcd_test.c:25:17:read_source1	32	static
+lcd_test.c:82:10:get_bmp_name	96	static
+lcd_test.c:122:6:lcd_test	1816	static
+lcd_test.c:173:6:file_name_test	1136	static

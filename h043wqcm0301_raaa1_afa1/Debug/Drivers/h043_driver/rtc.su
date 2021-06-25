@@ -1,0 +1,12 @@
+rtc.c:96:6:RTC_IRQHandler	16	static
+rtc.c:122:13:upload_rtc_counter	24	static
+rtc.c:149:6:update_rtc_task	32	static
+rtc.c:235:13:rtc_init	4	static
+rtc.c:281:13:rtc_set_time	40	static
+rtc.c:319:13:rtc_get_time	40	static
+rtc.c:354:16:rtc_msg	16	static
+rtc.c:362:13:rtc_release	24	static
+rtc.c:389:13:rtc_act	16	static
+rtc.c:401:13:rtc_draw_screen	88	static
+rtc.c:762:9:rtc_create	24	static
+rtc.c:862:6:create_rtc_touch	16	static

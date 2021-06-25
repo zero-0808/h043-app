@@ -1,0 +1,4 @@
+led.c:49:13:led_mode_manage	24	static
+led.c:97:9:set_led_mode	16	static
+led.c:116:13:led_timer	16	static
+led.c:162:8:led_init	16	static

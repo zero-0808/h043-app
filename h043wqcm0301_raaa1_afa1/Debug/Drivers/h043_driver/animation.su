@@ -1,0 +1,8 @@
+animation.c:27:20:animation_msg	48	static
+animation.c:106:17:animation_release	32	static
+animation.c:131:17:animation_act	24	static
+animation.c:238:17:upload_animation	24	static
+animation.c:268:17:animation_draw_screen	48	static
+animation.c:422:17:animation_timer	32	static
+animation.c:464:13:animation_create	40	static
+animation.c:549:14:sanimation_create	24	static

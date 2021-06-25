@@ -1,0 +1,10 @@
+pop_win.c:25:16:pop_win_msg	16	static
+pop_win.c:30:13:pop_win_release	24	static
+pop_win.c:42:13:pop_win_act	16	static
+pop_win.c:49:18:find_touch_screen	24	static
+pop_win.c:89:18:find_touch_cfg	32	static
+pop_win.c:147:13:win_draw_screen	64	static
+pop_win.c:192:17:rect_over	24	static
+pop_win.c:211:6:hide_win	24	static
+pop_win.c:236:6:pop_up_win	72	static
+pop_win.c:429:6:win_task	16	static

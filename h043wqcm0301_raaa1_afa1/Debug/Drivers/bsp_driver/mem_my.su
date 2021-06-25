@@ -1,0 +1,13 @@
+mem_my.c:23:6:init_memory	24	static
+mem_my.c:33:17:mem_break	24	static
+mem_my.c:45:15:malloc_irq	24	static
+mem_my.c:75:8:my_malloc	32	static,ignoring_inline_asm
+mem_my.c:84:13:mem_merge	16	static
+mem_my.c:99:6:free_irq	32	static
+mem_my.c:132:6:my_free	24	static,ignoring_inline_asm
+mem_my.c:141:15:get_mem_info	40	static,ignoring_inline_asm
+mem_my.c:164:6:mem_set	32	static
+mem_my.c:174:6:mem_set2	32	static
+mem_my.c:186:6:mem_copy	40	static
+mem_my.c:197:6:mem_copy2	40	static
+mem_my.c:211:6:mem_copy4	40	static

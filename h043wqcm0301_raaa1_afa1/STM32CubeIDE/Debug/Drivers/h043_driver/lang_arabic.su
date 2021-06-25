@@ -1,0 +1,11 @@
+lang_arabic.c:154:10:arabic_unicode_convert	40	static
+lang_arabic.c:242:6:get_arabic_offset	32	static
+lang_arabic.c:284:9:Arabic_Fix_English	24	static
+lang_arabic.c:312:9:Arabic_Check_Len	24	static
+lang_arabic.c:341:9:Arabic_Check	16	static
+lang_arabic.c:356:9:Arabic_Len	24	static
+lang_arabic.c:391:13:cal_arabic_offset	40	static
+lang_arabic.c:441:16:arabic_front	24	static
+lang_arabic.c:462:16:arabic_next	24	static
+lang_arabic.c:484:16:arabic_hyphen	16	static
+lang_arabic.c:502:17:arabic_convert	24	static

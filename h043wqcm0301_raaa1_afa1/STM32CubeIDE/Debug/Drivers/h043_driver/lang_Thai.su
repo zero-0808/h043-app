@@ -1,0 +1,5 @@
+lang_Thai.c:42:9:Thai_Check	16	static
+lang_Thai.c:56:11:Thai_Kind	24	static
+lang_Thai.c:99:9:Thai_Splice	24	static
+lang_Thai.c:144:9:Get_Thai_Info	48	static
+lang_Thai.c:252:6:Show_Thai	56	static

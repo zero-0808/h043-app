@@ -1,0 +1,4 @@
+bmp.c:10:10:get_bmp_num	96	static
+bmp.c:40:9:is_bmp_file	24	static
+bmp.c:61:6:convert_bmp	40	static
+bmp.c:81:6:bmp_3to2	32	static

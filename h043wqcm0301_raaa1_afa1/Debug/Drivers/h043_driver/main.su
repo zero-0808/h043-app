@@ -1,0 +1,8 @@
+core_cm7.h:1865:22:__NVIC_SetPriorityGrouping	24	static
+main.c:58:6:check_pass	16	static
+main.c:96:1:main	16	static
+main.c:207:6:nand_test	56	static
+main.c:272:6:sdram_test	32	static
+main.c:432:6:anti_draw_line	64	static
+main.c:487:6:anti_test	64	static
+main.c:582:6:show_test	32	static

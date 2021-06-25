@@ -1,0 +1,11 @@
+ctrl.c:12:6:T_CtrlGlobleDataInit	4	static
+ctrl.c:19:6:ctrl_init	24	static
+ctrl.c:41:6:ctrl_release	16	static
+ctrl.c:67:6:deactive_ctrl	16	static
+ctrl.c:78:6:active_ctrl	16	static
+ctrl.c:91:13:clear_focus_ctrl	32	static
+ctrl.c:110:11:ctrl_msg	24	static
+ctrl.c:148:10:get_ctrl	24	static
+ctrl.c:164:10:get_ctrl_num	24	static
+ctrl.c:178:9:release_ctrl	24	static
+ctrl.c:223:6:ctrl_release_screen	32	static

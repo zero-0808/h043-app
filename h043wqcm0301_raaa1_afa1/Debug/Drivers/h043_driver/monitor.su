@@ -1,0 +1,12 @@
+monitor.c:32:6:xputc	16	static
+monitor.c:49:6:xputs	16	static
+monitor.c:73:6:xvprintf	64	static
+monitor.c:149:6:xprintf	16	static
+monitor.c:162:6:xsprintf	28	static
+monitor.c:185:6:put_dump	32	static
+monitor.c:224:5:xatoi	24	static
+monitor.c:284:5:get_line	24	static
+monitor.c:322:5:xstrlen	16	static
+monitor.c:331:7:xstrcpy	16	static
+monitor.c:340:7:xmemset	24	static
+monitor.c:349:7:xstrchr	16	static

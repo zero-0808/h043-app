@@ -1,0 +1,10 @@
+keyboard.c:38:6:system_keyboard_init	8	static
+keyboard.c:46:16:pop_keyboard_msg	16	static
+keyboard.c:51:13:pop_keyboard_release	24	static
+keyboard.c:64:13:pop_keyboard_act	16	static
+keyboard.c:70:13:keyboard_draw_screen	64	static
+keyboard.c:116:11:screen_touch_addrss	24	static
+keyboard.c:155:13:keyboard_touch_create	48	static
+keyboard.c:249:6:hide_keyboard	16	static
+keyboard.c:406:6:pop_up_keyboard	32	static
+keyboard.c:547:6:keyboard_task	16	static

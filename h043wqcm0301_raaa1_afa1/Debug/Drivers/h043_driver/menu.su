@@ -1,0 +1,10 @@
+menu.c:48:16:menu_msg	56	static
+menu.c:171:13:menu_release	24	static
+menu.c:246:14:copy_to_textbox	40	static
+menu.c:326:13:hide_menu	24	static
+menu.c:354:13:upload_menu_num	24	static
+menu.c:378:13:menu_act	24	static
+menu.c:414:13:show_menu_string	72	static
+menu.c:492:13:menu_show_font	64	static
+menu.c:616:13:menu_draw_screen	96	static
+menu.c:760:9:menu_create	32	static

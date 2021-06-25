@@ -1,0 +1,16 @@
+select.c:36:16:select_msg	64	static
+select.c:135:13:select_release	32	static
+select.c:259:16:option_add	16	static
+select.c:264:16:option_sub	16	static
+select.c:276:13:upload_select_num	24	static
+select.c:305:13:update_option_infmation	48	static
+select.c:568:13:select_act	16	static
+select.c:584:13:init_draw_text	32	static
+select.c:639:13:update_draw_text	40	static
+select.c:913:17:get_code_width	24	static
+select.c:1173:13:select_show_font	104	static
+select.c:1397:7:init_options_infmation	32	static
+select.c:1486:13:select_draw_screen	24	static
+select.c:1520:14:select_touch_back	24	static
+select.c:1536:9:select_create	32	static
+select.c:1642:10:sselect_create	24	static
